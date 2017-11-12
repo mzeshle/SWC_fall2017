@@ -1,2 +1,6 @@
 git add .
 git commit -m "added git_steps.txt"
+dabahtinause git init one time
+\n\nuse git init one time
+\n really
+really
